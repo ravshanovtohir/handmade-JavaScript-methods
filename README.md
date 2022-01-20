@@ -1,1 +1,1 @@
-# handmade-JavaScript-methods
+# Handmade-JavaScript-methods
